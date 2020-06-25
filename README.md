@@ -10,4 +10,4 @@ That extension is not published to Chrome Store yet. So in order for use it:
 4. Click the "Load unpacked extension..." button
 5. Chose a directory with the unpacked extension
 # screenshot
-![screenshot](https://github.com/pegadevops/pega-disable-all-rulesets-tracer/raw/master/Tracer_New_Button.png)
+![screenshot](https://github.com/tobobby/pega-disable-all-rulesets-tracer/raw/master/Tracer_New_Button.png)
