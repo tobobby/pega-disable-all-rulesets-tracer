@@ -9,6 +9,5 @@ That extension is not published to Chrome Store yet. So in order for use it:
 3. Enable "Developer mode" in chrome://extensions/
 4. Click the "Load unpacked extension..." button
 5. Chose a directory with the unpacked extension
-
 # screenshot
 ![screenshot](https://github.com/pegadevops/pega-deselect-tracer/raw/master/Tracer_New_Button.png)
