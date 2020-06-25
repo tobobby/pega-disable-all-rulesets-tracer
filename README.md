@@ -2,8 +2,7 @@
 Chrome extension that adds button "Unselect Pega Rulesets" rulesets for a Tracer Configuration
 
 # Usage
-That extension is not published to Chrome Store yet. So in order for use it:
-
+This extension is not yet published to Chrome store yet. But the following steps are good to install and use it.
 1. Select "Download Zip" in the top right corner on Github
 2. Extract the extension/zip file into local folder
 3. Enable "Developer mode" in chrome://extensions/ on top right corner
