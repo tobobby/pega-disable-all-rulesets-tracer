@@ -1,13 +1,13 @@
-# pega-disable-all-rulesets-tracer
+# pega-disable-all-rulesets-tracer chrome extension
 Chrome extension that adds button "Unselect Pega Rulesets" rulesets for a Tracer Configuration
 
-# usage
+# Usage
 That extension is not published to Chrome Store yet. So in order for use it:
 
-1. Download zip in the top right corner
+1. Select "Download Zip" in the top right corner on Github
 2. Extract the extension/zip file into local folder
-3. Enable "Developer mode" in chrome://extensions/
-4. Click the "Load unpacked extension..." button
-5. Chose a directory with the unpacked extension
-# screenshot
+3. Enable "Developer mode" in chrome://extensions/ on top right corner
+4. Click the "Load unpacked extension" button from chrome
+5. Choose a directory with the unpacked extension
+# Snapshot
 ![screenshot](https://github.com/tobobby/pega-disable-all-rulesets-tracer/raw/master/Tracer_New_Button.png)
