@@ -1,4 +1,4 @@
-# pega-deselect-tracer
+# pega-disable-all-rulesets-tracer
 Chrome extension that adds button "Unselect Pega Rulesets" rulesets for a Tracer Configuration
 
 # usage
