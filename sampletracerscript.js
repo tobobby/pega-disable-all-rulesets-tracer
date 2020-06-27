@@ -47,7 +47,7 @@ ruleSetList[j].cells[1].lastChild.style.display = "";
 
     };
 //This is for unselecting the checkboxes having the name starts with Pega 
-    if (ruleSetName.startsWith("Pega-")){
+    if (ruleSetName.startsWith("Pega-") || ruleSetName.startsWith("Pega")){
 
 try{
 ruleSetList[i].cells[1].lastChild.checked = false;
